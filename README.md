@@ -24,6 +24,10 @@ This project analyzes online shopping order data to identify peak shopping hours
 ## Output
 - Console statistics
 - Line plot showing number of orders per hour
+  
+## Output Screenshot
+
+![Peak Hour Analysis](Screenshot 2025-12-25 180034.png)
 
 ## Author
 Rashmika
